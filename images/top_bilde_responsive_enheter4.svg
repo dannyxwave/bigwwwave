@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="675px" height="291px" viewBox="0 0 675 291" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>top_bilde_responsive_enheter</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M12.4284744,33.566052 C14.0863036,27.2800898 15.3996488,0.134928484 15.3996488,0.134928484 L83.2199339,0.134928484 C83.2199339,0.134928484 84.6178263,27.1729215 86.6017138,33.566052 C88.5856014,39.9591825 94.0711795,43.3204124 97.3868379,45.7881543 L1.23274478,45.7881543 C4.54840317,43.3204124 10.7706452,39.8520142 12.4284744,33.566052 Z"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.730203019   0 0 0 0 0.730203019   0 0 0 0 0.730203019  0 0 0 0.7 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Desktop" sketch:type="MSArtboardGroup" transform="translate(-41.000000, -434.000000)">
+            <g id="//-Devices-Blå-Copy-2" sketch:type="MSLayerGroup" transform="translate(41.000000, 424.000000)">
+                <g id="//-Thunderbolt-Display" transform="translate(176.844302, 14.806452)">
+                    <g id="::-stand" transform="translate(110.947030, 209.623136)">
+                        <rect id="Rectangle-80" fill="#B2B2B2" sketch:type="MSShapeGroup" x="0" y="48.4897672" width="98.6195827" height="2.46890596"></rect>
+                        <path d="M0.753919242,46.5089212 C1.11562817,45.5585679 2.23706397,44.7881543 3.25826721,44.7881543 L95.3613155,44.7881543 C96.3827197,44.7881543 97.5026464,45.5551309 97.8656634,46.5089212 L98.6195827,48.4897672 L-7.8206951e-17,48.4897672 L0.753919242,46.5089212 Z" id="Rectangle-77" fill="#C3C3C3" sketch:type="MSShapeGroup"></path>
+                        <mask id="mask-2" sketch:name="Mask" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#D8D8D8" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                        <rect id="Rectangle-123" fill="#B3B3B3" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="7.3964687" y="-0.865071516" width="83.8266453" height="2.46890596"></rect>
+                    </g>
+                    <g id="::-base" sketch:type="MSShapeGroup">
+                        <rect id="dark-bezel" fill="#3C3C3C" x="0" y="0" width="320.513644" height="209.758065" rx="6"></rect>
+                        <rect id="camera-on-light" fill="#61FFB2" x="166.420546" y="7.40671789" width="2.46548957" height="2.46890596" rx="6"></rect>
+                        <rect id="camera" fill="#5C5C5C" x="157.791332" y="6.17226491" width="4.93097913" height="4.93781193" rx="6"></rect>
+                        <rect id="microphone" fill="#545454" x="151.627608" y="7.40671789" width="2.46548957" height="2.46890596" rx="6"></rect>
+                    </g>
+                    <rect id="wallpaper" fill="#FFFFFF" sketch:type="MSShapeGroup" x="10.8860353" y="13.3684457" width="298.741573" height="183.103819"></rect>
+                    <g id="::-screen" transform="translate(11.258427, 13.048471)">
+                        <g id="1Content" transform="translate(2.668592, 5.084677)" sketch:type="MSShapeGroup">
+                            <rect id="Rectangle-102" fill="#2C8FCC" x="1.06200826" y="0.239719439" width="100.807256" height="32.759529"></rect>
+                            <rect id="Rectangle-102-Copy-3" fill="#50A3D7" x="1.06200826" y="133.898598" width="87.7154046" height="39.3114348"></rect>
+                            <rect id="Rectangle-102-Copy-4" fill="#50A3D7" x="202.67652" y="133.898598" width="87.7154046" height="39.3114348"></rect>
+                            <rect id="Rectangle-102-Copy-5" fill="#50A3D7" x="101.869264" y="133.898598" width="87.7154046" height="39.3114348"></rect>
+                            <rect id="Rectangle-102-Copy" fill="#C8C8C8" x="113.651931" y="0.239719439" width="176.739994" height="32.759529"></rect>
+                            <rect id="Rectangle-102-Copy-2" fill="#797B75" x="1.06200826" y="43.4822978" width="289.329917" height="81.2522854"></rect>
+                        </g>
+                        <path d="M0.393521758,0.612861382 L184.656237,0.612861382 L0.393521758,185.130908 L0.393521758,0.612861382 Z" id="glare" fill-opacity="0.12" fill="#DADADA" sketch:type="MSShapeGroup"></path>
+                        <g id="::-contents" transform="translate(94.757624, 164.712759)"></g>
+                    </g>
+                </g>
+                <g id="//-MacBook-Pro-15" transform="translate(400.574639, 155.806452)" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-117" fill="#3D3D3D" x="18.4911717" y="0" width="209.566613" height="128.322581" rx="4"></rect>
+                    <g id="::-base" transform="translate(0.000000, 128.322581)" filter="url(#filter-3)" fill="#D3D3D3">
+                        <path d="M0,0 L246.548957,0 L246.548957,6.86914797 C246.548957,8.52700725 245.207564,9.87096774 243.542662,9.87096774 L3.00629458,9.87096774 C1.34596393,9.87096774 0,8.51914899 0,6.86914797 L0,0 Z" id="Mask"></path>
+                    </g>
+                    <rect id="Rectangle-725" fill="#A7A7A7" x="110.425361" y="128.293524" width="29" height="3" rx="3"></rect>
+                    <rect id="macbook-label" fill="#626262" x="117.110754" y="124.620968" width="14.7929374" height="1.23387097"></rect>
+                    <g id="::-screen" transform="translate(27.120385, 8.637097)">
+                        <rect id="wallpaper" fill="#FFFFFF" x="0" y="0" width="192.308186" height="112.282258"></rect>
+                        <g id="1Content-Copy-2" transform="translate(3.698234, 1.233871)">
+                            <rect id="Rectangle-102" fill="#2C8FCC" x="0" y="0.815906115" width="64.4262545" height="20.5332498"></rect>
+                            <rect id="Rectangle-102-Copy-3" fill="#50A3D7" x="0" y="84.5915654" width="56.0592085" height="24.6398998"></rect>
+                            <rect id="Rectangle-102-Copy-4" fill="#50A3D7" x="128.852509" y="84.5915654" width="56.0592085" height="24.6398998"></rect>
+                            <rect id="Rectangle-102-Copy-5" fill="#50A3D7" x="64.4262545" y="84.5915654" width="56.0592085" height="24.6398998"></rect>
+                            <rect id="Rectangle-102-Copy" fill="#C8C8C8" x="71.9565959" y="0.815906115" width="112.955122" height="20.5332498"></rect>
+                            <rect id="Rectangle-102-Copy-2" fill="#797B75" x="0" y="27.9197959" width="184.911717" height="50.9278834"></rect>
+                        </g>
+                        <path d="M0,0 L112.179775,0 L0,112.282258 L0,0 Z" id="glare" fill-opacity="0.12" fill="#D6D6D6"></path>
+                    </g>
+                    <ellipse id="webcam" fill="#5C5C5C" cx="123.890851" cy="4.31854839" rx="1.84911717" ry="1.85080645"></ellipse>
+                </g>
+                <g id="//-iPad-" transform="translate(116.000000, 182.612903)" sketch:type="MSShapeGroup">
+                    <rect id="main-body" fill="#3D3D3D" x="0" y="0" width="82.5939005" height="111.048387" rx="4"></rect>
+                    <rect id="home-button" stroke="#505050" x="38.2150883" y="102.41129" width="6.16372392" height="6.16935484" rx="6"></rect>
+                    <rect id="screen" fill="#FFFFFF" x="4.93097913" y="11.1048387" width="72.7319422" height="88.8387097"></rect>
+                    <g id="1Content-Copy-4" transform="translate(7.396469, 13.572581)">
+                        <rect id="Rectangle-102" fill="#2C8FCC" x="0" y="0.635901283" width="23.62296" height="16.0032137"></rect>
+                        <rect id="Rectangle-102-Copy-4" fill="#50A3D7" x="35.7495987" y="45.2218348" width="32.0513644" height="19.2038564"></rect>
+                        <rect id="Rectangle-102-Copy-6" fill="#50A3D7" x="0" y="45.2218348" width="32.0513644" height="19.2038564"></rect>
+                        <rect id="Rectangle-102-Copy-8" fill="#8B8B8B" x="0" y="67.1547406" width="20.9566613" height="16.0032137"></rect>
+                        <rect id="Rectangle-102-Copy-9" fill="#8B8B8B" x="23.4221509" y="67.1547406" width="20.9566613" height="16.0032137"></rect>
+                        <rect id="Rectangle-102-Copy-10" fill="#8B8B8B" x="46.8443018" y="67.1547406" width="20.9566613" height="16.0032137"></rect>
+                        <rect id="Rectangle-102-Copy" fill="#C8C8C8" x="26.3840852" y="0.635901283" width="41.4168779" height="16.0032137"></rect>
+                        <rect id="Rectangle-102-Copy-2" fill="#797B75" x="0" y="20.5262724" width="67.8009631" height="21.4253405"></rect>
+                    </g>
+                    <path d="M4.93097913,11.1048387 L77.6629213,11.1048387 L4.93097913,83.9032258 L4.93097913,11.1048387 Z" id="glare" fill-opacity="0.12" fill="#D5D5D5"></path>
+                    <rect id="camera" fill="#565656" x="41.9133226" y="3.7016129" width="3.69823435" height="3.7016129" rx="6"></rect>
+                    <rect id="microphone" fill="#747474" x="38.2150883" y="4.93548387" width="1.23274478" height="1.23387097" rx="6"></rect>
+                </g>
+                <g id="//-iPhone-6" transform="translate(73.420546, 228.500000)" sketch:type="MSShapeGroup">
+                    <rect id="main-body" fill="#3D3D3D" x="0" y="0" width="33.2841091" height="64.1612903" rx="2"></rect>
+                    <rect id="home-button" stroke="#6A6A6A" x="14.7929374" y="57.9919355" width="3.69823435" height="3.7016129" rx="6"></rect>
+                    <rect id="screen" fill="#FFFFFF" x="2.46548957" y="8.63709677" width="28.35313" height="46.8870968"></rect>
+                    <g id="1Content-Copy-5" transform="translate(3.698234, 9.870968)">
+                        <rect id="Rectangle-102" fill="#2C8FCC" x="0" y="0.267262858" width="17.258427" height="4.66822101"></rect>
+                        <rect id="Rectangle-102-Copy-6" fill="#50A3D7" x="0" y="17.2741935" width="25.3497155" height="6.16935484"></rect>
+                        <rect id="Rectangle-102-Copy-7" fill="#50A3D7" x="0" y="24.6774194" width="25.3497155" height="6.16935484"></rect>
+                        <rect id="Rectangle-102-Copy-11" fill="#50A3D7" x="0" y="32.0806452" width="25.3497155" height="6.16935484"></rect>
+                        <rect id="Rectangle-102-Copy-12" fill="#8B8B8B" x="0" y="38.8123574" width="25.3497155" height="6.84086841"></rect>
+                        <path d="M18.4911717,0.267262858 L25.3497155,0.267262858 L25.3497155,4.93548387 L18.4911717,4.93548387 L18.4911717,0.267262858 Z" id="Rectangle-102-Copy" fill="#C8C8C8"></path>
+                        <rect id="Rectangle-102-Copy-2" fill="#797B75" x="0" y="6.16935484" width="25.3497155" height="9.87096774"></rect>
+                    </g>
+                    <path d="M2.46548957,8.63709677 L30.8186196,8.63709677 L2.46548957,37.016129 L2.46548957,8.63709677 Z" id="glare" fill-opacity="0.12" fill="#BCBCBC"></path>
+                    <rect id="microphone" fill="#A1A1A1" x="11.094703" y="3.7016129" width="1.23274478" height="1.23387097" rx="6"></rect>
+                    <rect id="Rectangle-267" fill="#121212" x="13.5601926" y="3.7016129" width="6.16372392" height="1.23387097"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
